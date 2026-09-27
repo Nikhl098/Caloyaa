@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T15:43:47.579551+00:00",
+  "updatedAt": "2026-09-27T15:54:09.162576+00:00",
   "items": {
     "Aloo Tikki Burger": true,
     "Aloo Tikki Burger with Cheese": true,
@@ -24,7 +24,7 @@
     "Strawberry Ice Cream": true,
     "Butterscotch Ice Cream": true,
     "Lay's Chips (Rs 15 pack)": true,
-    "Lay's Chips (Rs 20 pack)": true,
+    "Lay's Chips (Rs 20 pack)": false,
     "Kit Kat": true,
     "Dairy Milk": true,
     "5 Star": true,
