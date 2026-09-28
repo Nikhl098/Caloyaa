@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T06:26:00.713035+00:00",
+  "updatedAt": "2026-09-28T06:27:04.183164+00:00",
   "items": {
     "Aloo Tikki Burger": true,
     "Aloo Tikki Burger with Cheese": true,
@@ -47,6 +47,9 @@
     "Oreo Shake": true,
     "Sandwich + Small Fries + Coke": true,
     "Burger + Small Fries + Coke": true,
-    "Small Garlic Bread + Mocktail": true
+    "Small Garlic Bread + Mocktail": true,
+    "Garlic Pasta": true,
+    "Aloo Wrap": true,
+    "Peri Peri Paneer Wrap": true
   }
 }
